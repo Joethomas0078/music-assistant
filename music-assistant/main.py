@@ -7,7 +7,7 @@ import sys
 
 pygame.mixer.init()
 #path of program and songs
-path = "C:\\Users\\joeth\\OneDrive\\Attachments\\new\\proj\\pythonproj\\music-assistant\\"
+path = "#"
 songs = os.listdir(path)
 
 r = sr.Recognizer()
